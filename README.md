@@ -4,4 +4,5 @@
 References
 
 Raschka, S. (2015). Python Machine Learning. Packt Publishing Ltd.
+
 Scikit-learn (2016). Sklearn.linear_model.SGDClassifier. Retrieved from: http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html#sklearn.linear_model.SGDClassifier
